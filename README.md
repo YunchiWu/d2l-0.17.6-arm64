@@ -98,3 +98,7 @@ The sample and reference code within this open source book is made available und
 
 [Chinese version](https://github.com/d2l-ai/d2l-zh) | [Discuss and report issues](https://discuss.d2l.ai/) | [Code of conduct](CODE_OF_CONDUCT.md) | [Other Information](INFO.md)
 
+
+# Complementary
+This repository is used to repackage the d2l-0.17.6 from PyPI, which is used to
+learn Book *Dive into Deep Learning (PyTorch)*.
