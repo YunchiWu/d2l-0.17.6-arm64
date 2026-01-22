@@ -102,3 +102,5 @@ The sample and reference code within this open source book is made available und
 # Complementary
 This repository is used to repackage the d2l-0.17.6 from PyPI, which is used to
 learn Book *Dive into Deep Learning (PyTorch)*.
+
+There are the files that can be installed in the dist/.
